@@ -72,7 +72,7 @@ class HomePageState extends State<HomePage> {
                             fontWeight: FontWeight.bold),
                       ));
 
-  Widget buildText() => const  Text("Syntiant       \n\n",style: TextStyle(
+  Widget buildText() => const  Text("Smartz       \n\n",style: TextStyle(
                             color: Colors.white,
                             fontSize: 30,
                             fontWeight: FontWeight.bold),);
