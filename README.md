@@ -1,6 +1,6 @@
 # smart_wear
 
-A new Flutter project.
+A IoT Flutter project with Bluetooth Connectivity to a Smart watch.
 
 ## Getting Started
 
